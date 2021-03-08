@@ -9,6 +9,7 @@ This is a solution to the [[Challenge title] challenge on Frontend Mentor](). Fr
 - [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
